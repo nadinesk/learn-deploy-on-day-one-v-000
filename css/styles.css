@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#nadine-fischoff-cover {
+  background-image: url("http://imgur.com/VucYHlN.jpg");
+}
+
+#nadine-fischoff-card {
+  background-image: url("http://i.imgur.com/sEbHLip.jpg");
+}
+
 #art-rodriguez-cover {
   background-image: url("http://i.imgur.com/EwESaI4.jpg");
 }
